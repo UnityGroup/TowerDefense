@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: f13910db34dc26a4b89ba8eed338af14
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CharmanderDown1
+    21300002: CharmanderDown2
+    21300004: CharmanderDown3
+    21300006: CharmanderSide1
+    21300008: CharmanderSide2
+    21300010: CharmanderSide3
+    21300012: BulbasaurDown1
+    21300014: BulbasaurDown2
+    21300016: BulbasaurDown3
+    21300018: BulbasaurSide1
+    21300020: BulbasaurSide2
+    21300022: BulbasaurSide3
+    21300024: CharmanderUp1
+    21300026: CharmanderUp2
+    21300028: CharmanderUp3
+    21300030: BulbasaurUp1
+    21300032: BulbasaurUp2
+    21300034: BulbasaurUp3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CharmanderDown1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1669
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharmanderDown2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1669
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharmanderDown3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1669
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharmanderSide1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1669
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharmanderSide2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1669
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharmanderSide3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1669
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BulbasaurDown1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1897
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BulbasaurDown2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1897
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BulbasaurDown3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1897
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BulbasaurSide1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1897
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BulbasaurSide2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1897
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BulbasaurSide3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1897
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharmanderUp1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1669
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharmanderUp2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1668
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharmanderUp3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1669
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BulbasaurUp1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1897
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BulbasaurUp2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1897
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BulbasaurUp3
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1897
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
